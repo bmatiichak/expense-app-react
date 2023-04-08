@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.0fb8622b.css",
-    "main.js": "/static/js/main.273e7594.js",
-    "static/js/787.a77e962a.chunk.js": "/static/js/787.a77e962a.chunk.js",
-    "index.html": "/index.html",
-    "main.0fb8622b.css.map": "/static/css/main.0fb8622b.css.map",
-    "main.273e7594.js.map": "/static/js/main.273e7594.js.map",
-    "787.a77e962a.chunk.js.map": "/static/js/787.a77e962a.chunk.js.map"
+    "main.css": "/expense-app-react/static/css/main.0fb8622b.css",
+    "main.js": "/expense-app-react/static/js/main.f31d3260.js",
+    "static/js/787.a77e962a.chunk.js": "/expense-app-react/static/js/787.a77e962a.chunk.js",
+    "index.html": "/expense-app-react/index.html",
+    "main.0fb8622b.css.map": "/expense-app-react/static/css/main.0fb8622b.css.map",
+    "main.f31d3260.js.map": "/expense-app-react/static/js/main.f31d3260.js.map",
+    "787.a77e962a.chunk.js.map": "/expense-app-react/static/js/787.a77e962a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0fb8622b.css",
-    "static/js/main.273e7594.js"
+    "static/js/main.f31d3260.js"
   ]
 }
